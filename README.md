@@ -1,1 +1,1 @@
-# quiz-gan-me
+# quiz-game
